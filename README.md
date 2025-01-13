@@ -37,7 +37,7 @@ O código utiliza as seguintes bibliotecas:
 ---
 
 ## **Gráfico de Clusters**
-![esquema](Gráfico de Dispersão com Clusters - KMeans.png)
+![esquema](foto.png)
 
 - **Eixo X:** PCA-1 (Componente Principal 1).
 - **Eixo Y:** PCA-2 (Componente Principal 2).
