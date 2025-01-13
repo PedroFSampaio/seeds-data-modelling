@@ -37,7 +37,7 @@ O código utiliza as seguintes bibliotecas:
 ---
 
 ## **Gráfico de Clusters**
-![esquema](foto.png)
+![esquema](foto)
 
 - **Eixo X:** PCA-1 (Componente Principal 1).
 - **Eixo Y:** PCA-2 (Componente Principal 2).
